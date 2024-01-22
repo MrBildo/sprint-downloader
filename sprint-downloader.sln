@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MrBIldo.SprintDownloader", "MrBIldo.SprintDownloader\MrBIldo.SprintDownloader.csproj", "{CA64AB5C-8E40-4A69-8603-F47C8CDABCEB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Workspace", "Workspace", "{2C0E81A0-7C9B-4BA2-9C16-8A42F235772C}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA64AB5C-8E40-4A69-8603-F47C8CDABCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA64AB5C-8E40-4A69-8603-F47C8CDABCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA64AB5C-8E40-4A69-8603-F47C8CDABCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA64AB5C-8E40-4A69-8603-F47C8CDABCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B55605F-01C8-453D-9326-47A28BD10FE3}
+	EndGlobalSection
+EndGlobal
